@@ -13,6 +13,11 @@ _Get started using GitHub in less than an hour._
 
 </header>
 
+## Project concept artifact
+
+- [NOISE concept package](./NOISE_CONCEPT_BIBLE.md)
+
+
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
